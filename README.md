@@ -2,6 +2,9 @@
 
 This is a sample of sending an email with a Python logging fileConfig.
 
+`sample.py` is the main body of the script.
+`logging.conf` is the configuration file for logging.
+
 
 ```conf
 [handler_emailHandler]
