@@ -2,6 +2,8 @@
 
 This is a example of sending an email with a Python logging fileConfig.
 
+Python 3.91
+
 `example.py` is the main body of the script.
 `logging.conf` is the configuration file for logging.
 
